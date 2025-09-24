@@ -58,5 +58,12 @@
         "key": "lendodnsgso",
         "expirydate": "25-09-2025",
         "Allowoffline": false
+    },
+    {
+    
+        "device_id": "6b07cb93ce332d73",
+        "key": "keosbsksbsvso",
+        "expirydate": "25-10-2025",
+        "Allowoffline": false
     }
 ]
