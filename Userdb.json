@@ -65,19 +65,5 @@
         "key": "grkdlytbkdb",
         "expirydate": "25-10-2025",
         "Allowoffline": false
-    },
-    {
-    
-        "device_id": "52d9971b3d1d0cd1",
-        "key": "hrodbspdld",
-        "expirydate": "27-09-2025",
-        "Allowoffline": false
-    },
-    {
-    
-        "device_id": "a85f5052d2b061f3",
-        "key": "ikrbdidlwb",
-        "expirydate": "27-09-2025",
-        "Allowoffline": false
     }
 ]
