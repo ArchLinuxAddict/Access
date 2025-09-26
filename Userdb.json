@@ -79,5 +79,12 @@
         "key": "tridbsoak",
         "expirydate": "27-09-2025",
         "Allowoffline": false
+    },
+    {
+    
+        "device_id": "e598a7a3ff965030",
+        "key": "kevsjekldb",
+        "expirydate": "27-09-2025",
+        "Allowoffline": false
     }
 ]
