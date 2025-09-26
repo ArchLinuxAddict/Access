@@ -72,5 +72,12 @@
         "key": "hrodbspdld",
         "expirydate": "27-09-2025",
         "Allowoffline": false
+    },
+    {
+    
+        "device_id": "30bb6a100ff72052",
+        "key": "tridbsoak",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
 ]
