@@ -11,5 +11,11 @@
         "key": "test12",
         "expirydate": "31-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fca2d2f27847c091",
+        "key": "odjdodjsv",
+        "expirydate": "31-12-2025",
+        "Allowoffline": false
     }
 ]
