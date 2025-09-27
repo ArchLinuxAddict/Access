@@ -92,6 +92,6 @@
         "device_id": "780c692cdd8b5542",
         "key": "cfhebskdbh",
         "expirydate": "31-12-2150",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
