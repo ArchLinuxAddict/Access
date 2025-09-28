@@ -47,30 +47,9 @@
     },
     {
     
-        "device_id": "0cf982c92bcee92d",
-        "key": "kelsbdkdbvd",
-        "expirydate": "24-09-2025",
-        "Allowoffline": false
-    },
-    {
-    
-        "device_id": "b815fcd7fadce680",
-        "key": "lendodnsgso",
-        "expirydate": "25-09-2025",
-        "Allowoffline": false
-    },
-    {
-    
         "device_id": "6b07cb93ce332d73",
         "key": "grkdlytbkdb",
         "expirydate": "25-10-2025",
-        "Allowoffline": false
-    },
-    {
-    
-        "device_id": "52d9971b3d1d0cd1",
-        "key": "hrodbspdld",
-        "expirydate": "27-09-2025",
         "Allowoffline": false
     },
     {
@@ -93,12 +72,6 @@
         "key": "cfhebskdbh",
         "expirydate": "31-12-2150",
         "Allowoffline": true
-    },
-    {
-        "device_id": "742dcc9d3879206c",
-        "key": "uythksbjk",
-        "expirydate": "30-09-2025",
-        "Allowoffline": false
     },
     {
         "device_id": "ccda05aa323757a8",
