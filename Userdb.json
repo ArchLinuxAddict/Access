@@ -78,5 +78,12 @@
         "key": "reksbdodb",
         "expirydate": "30-09-2025",
         "Allowoffline": false
+    },
+    
+    {
+        "device_id": "30bb6a100ff72052",
+        "key": "orndpdbdid",
+        "expirydate": "30-09-2025",
+        "Allowoffline": false
     }
 ]
