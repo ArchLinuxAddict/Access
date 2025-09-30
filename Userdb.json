@@ -85,5 +85,13 @@
         "key": "orndpdbdid",
         "expirydate": "31-10-2025",
         "Allowoffline": false
+    },
+    
+    {
+        "device_id": "cc27c9733479b825",
+        "key": "iyebdkdbs",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
+    
 ]
