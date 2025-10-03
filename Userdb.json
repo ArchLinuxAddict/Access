@@ -110,5 +110,11 @@
         "key": "osbdidbdsa",
         "expirydate": "02-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "23aef84eb750f0b9",
+        "key": "hsvshdkdbv",
+        "expirydate": "05-10-2025",
+        "Allowoffline": false
     }
 ]
