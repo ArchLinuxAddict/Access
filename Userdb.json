@@ -134,5 +134,11 @@
         "key": "wuevdjdb",
         "expirydate": "05-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6d2a28ff561c117a",
+        "key": "xshsvdidb",
+        "expirydate": "06-10-2025",
+        "Allowoffline": false
     }
 ]
