@@ -140,5 +140,11 @@
         "key": "VxPSM6lmnf",
         "expirydate": "12-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5eb1f4702184d4fe",
+        "key": "nO3h3GVehP",
+        "expirydate": "08-10-2025",
+        "Allowoffline": false
     }
 ]
