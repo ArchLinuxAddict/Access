@@ -194,5 +194,11 @@
         "key": "4gMlr2nojQ",
         "expirydate": "13-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ebe9772c0c227545",
+        "key": "FLDmsOcpnl",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
     }
 ]
