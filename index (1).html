@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mediumish Blog</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<script src="script.js">
+<body>
+  <header>
+    <div class="logo">Mediumish</div>
+  </header>
+
+<nav>
+      <ul>
+        <li><a id="homeLink">Home</a></li>
+        <li><a id="aboutLink">About</a></li>
+      </ul>
+    </nav>
+
+  <main id="homePage" class="page">
+    <section class="posts">
+      <article class="post" onclick="openArticle(0)">
+        <h2>The Art of Simplicity</h2>
+        <p class="subtitle">Why less really is more.</p>
+      </article>
+
+      <article class="post" onclick="openArticle(1)">
+        <h2>Focus in a Distracted World</h2>
+        <p class="subtitle">Learning to stay present in chaos.</p>
+      </article>
+
+      <article class="post" onclick="openArticle(2)">
+        <h2>Designing Without Color</h2>
+        <p class="subtitle">The elegance of grayscale aesthetics.</p>
+      </article>
+
+    <footer>
+      <p><span id="footerYear"></span> Mediumish Blog</p>
+    </footer>
+  </main>
+
+  <section id="aboutPage" class="page hidden">
+    <h1>About</h1>
+    <p>This minimalist blog celebrates clean, distraction-free design.</p>
+  </section>
+
+  <section id="articlePage" class="page hidden">
+    <button id="backBtn">← Back to Home</button>
+    <div id="articleContent"></div>
+  </section>
+
+</script>
+</body>
+</html>
