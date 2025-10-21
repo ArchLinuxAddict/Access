@@ -272,5 +272,11 @@
         "key": "IKNLy166Lz",
         "expirydate": "21-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8f4f5114561833f0",
+        "key": "q93QYmkavZ",
+        "expirydate": "22-11-2025",
+        "Allowoffline": false
     }
 ]
