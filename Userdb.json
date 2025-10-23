@@ -296,5 +296,11 @@
         "key": "hekebwkwleb",
         "expirydate": "23-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3c3c9fa1094e8514",
+        "key": "Kf4Qz0iB3k",
+        "expirydate": "25-10-2025",
+        "Allowoffline": false
     }
 ]
