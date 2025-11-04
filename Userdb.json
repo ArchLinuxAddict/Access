@@ -338,5 +338,29 @@
         "key": "thor",
         "expirydate": "29-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "38d58dd98d09b5ad",
+        "key": "QjDRadWhMU",
+        "expirydate": "06-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "b3a851a8e6d64df9",
+        "key": "g3y2cBhspz",
+        "expirydate": "06-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "9aa75694dbc4dc33",
+        "key": "1Xnoe7zy6N",
+        "expirydate": "06-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "2959743356c89742",
+        "key": "bvonhvOuxq",
+        "expirydate": "06-12-2025",
+        "Allowoffline": false
     }
 ]
