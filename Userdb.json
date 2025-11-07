@@ -292,5 +292,11 @@
         "key": "Q91vk5qVFY",
         "expirydate": "08-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5aa223a692fae386",
+        "key": "godofwar",
+        "expirydate": "08-11-2025",
+        "Allowoffline": false
     }
 ]
