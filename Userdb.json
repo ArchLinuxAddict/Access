@@ -109,7 +109,7 @@
     },
     {
         "device_id": "9551c6c4eabfc726",
-        "key": "3hDdR6lPtr",
+        "key": "MTfPRtAc4q",
         "expirydate": "16-11-2025",
         "Allowoffline": false
     },
@@ -279,6 +279,12 @@
         "device_id": "00675726d771bac5",
         "key": "kXFfc9jCBu",
         "expirydate": "07-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d95647b2143cfd0b",
+        "key": "3hDdR6lPtr",
+        "expirydate": "09-12-2025",
         "Allowoffline": false
     }
 ]
