@@ -78,8 +78,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "3e2b327b92362cbd",
-        "key": "wuevdjdb",
+        "device_id": "9ec97072772d806f",
+        "key": "UVgS77qYGP",
         "expirydate": "05-10-2026",
         "Allowoffline": false
     },
@@ -315,12 +315,6 @@
         "device_id": "0775622f98cb99c1",
         "key": "5jL5WQTWgq",
         "expirydate": "13-12-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "9ec97072772d806f",
-        "key": "UVgS77qYGP",
-        "expirydate": "14-12-2025",
         "Allowoffline": false
     }
 ]
