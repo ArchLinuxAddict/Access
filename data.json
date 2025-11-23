@@ -1,6 +1,18 @@
 {
-  "apps": [],
-  "keys": [],
+  "apps": [
+    {
+      "package_name": "fgmods.key.test",
+      "latest_version": 2,
+      "update_link": "https://t.me/furjack"
+    }
+  ],
+  "keys": [
+    {
+      "key": "Idbdbsosbsjs",
+      "device_id": "a36f97295c0b7400",
+      "expiry": "2025-11-25T12:35:00.000Z"
+    }
+  ],
   "login_dialog": {
     "topText": "FG Mods",
     "buttonText": "Login",
