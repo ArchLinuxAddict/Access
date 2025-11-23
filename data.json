@@ -2,10 +2,10 @@
   "apps": [],
   "keys": [],
   "login_dialog": {
-    "topText": "Access Required",
+    "topText": "FG Mods",
     "buttonText": "Login",
     "adminButtonText": "Contact Admin",
-    "adminButtonUrl": "https://t.me/youradmin",
+    "adminButtonUrl": "https://t.me/furjack",
     "title": "FG MODS",
     "message": "The most safe and secure mods",
     "admin_url": "https://t.me/furjack"
