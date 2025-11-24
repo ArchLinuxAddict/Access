@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "package_name": "fgmods.key.test",
+      "package_name": "fg.key.fgmods",
       "latest_version": 2,
       "update_link": "https://t.me/furjack"
     },
