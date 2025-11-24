@@ -13,24 +13,9 @@
   ],
   "keys": [
     {
-      "key": "Test",
-      "device_id": "5aa223a692fae386",
-      "expiry": "2025-11-26T06:32:00Z"
-    },
-    {
-      "key": "Duggu",
-      "device_id": "2a7d9d5322ff5a2f",
-      "expiry": "2025-11-21T07:53:00Z"
-    },
-    {
       "key": "ARN5Th72i4",
       "device_id": "682f94031174facb",
       "expiry": "2100-12-02T09:02:00Z"
-    },
-    {
-      "key": "Jwosnsk",
-      "device_id": "a36f97295c0b7400",
-      "expiry": "2025-11-30T14:30:00Z"
     }
   ],
   "login_dialog": {
