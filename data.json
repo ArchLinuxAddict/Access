@@ -16,6 +16,11 @@
       "key": "ARN5Th72i4",
       "device_id": "682f94031174facb",
       "expiry": "2100-12-02T09:02:00Z"
+    },
+    {
+      "key": "Test",
+      "device_id": "a36f97295c0b7400",
+      "expiry": "2025-11-30T14:39:00Z"
     }
   ],
   "login_dialog": {
