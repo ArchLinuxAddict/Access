@@ -23,11 +23,6 @@
       "expiry": "2100-12-02T09:02:00Z"
     },
     {
-      "key": "Test",
-      "device_id": "a36f97295c0b7400",
-      "expiry": "2025-12-30T14:39:00Z"
-    },
-    {
       "key": "1ZHmdinBED",
       "device_id": "c43663a5752dffb2",
       "expiry": "2025-12-25T10:48:00Z"
@@ -41,11 +36,6 @@
       "key": "gZUpSJboFM",
       "device_id": "7aef8efa7f4de90e",
       "expiry": "2025-12-29T07:29:00Z"
-    },
-    {
-      "key": "Browhy",
-      "device_id": "5aa223a692fae386",
-      "expiry": "2028-02-02T02:54:00Z"
     }
   ],
   "login_dialog": {
