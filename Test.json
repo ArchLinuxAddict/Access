@@ -1,1 +1,11 @@
-
+{
+  "keys": [],
+  "bans": [],
+  "apps": [],
+  "login_dialog": {
+    "topText": "Premium Access Required",
+    "buttonText": "Activate License",
+    "adminButtonText": "Contact Support",
+    "adminButtonUrl": "https://t.me/youradmin"
+  }
+}
