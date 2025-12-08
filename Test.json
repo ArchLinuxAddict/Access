@@ -3,9 +3,9 @@
   "bans": [],
   "apps": [],
   "login_dialog": {
-    "topText": "Premium Access Required",
-    "buttonText": "Activate License",
-    "adminButtonText": "Contact Support",
-    "adminButtonUrl": "https://t.me/youradmin"
+    "topText": "FG Mods",
+    "buttonText": "Login",
+    "adminButtonText": "Contact Admin",
+    "adminButtonUrl": "https://t.me/furjack"
   }
 }
