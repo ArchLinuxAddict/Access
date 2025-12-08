@@ -1,5 +1,13 @@
 {
-  "keys": [],
+  "keys": [
+    {
+      "key": "QP952Z7WPL2S7EH4",
+      "deviceid": [
+        "a36f97295c0b7400"
+      ],
+      "expiry": "2025-12-11T18:55:00.000Z"
+    }
+  ],
   "bans": [],
   "apps": [],
   "login_dialog": {
