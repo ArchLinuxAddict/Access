@@ -1,20 +1,14 @@
 {
   "keys": [
     {
-      "key": "9URB6F75N32HSZU4",
+      "key": "XCAGXXS5GZ7D8RJA",
       "deviceid": [
         "a36f97295c0b7400"
       ],
-      "expiry": "2025-12-12T04:36:00Z"
+      "expiry": "2025-12-10T14:24:00Z"
     }
   ],
-  "bans": [
-    {
-      "deviceid": "a36f97295c0b7400",
-      "reason": "Trying to mod the app",
-      "banneddate": "2025-12-09T05:03:34Z"
-    }
-  ],
+  "bans": [],
   "apps": [],
   "login_dialog": {
     "topText": "FG Mods",
