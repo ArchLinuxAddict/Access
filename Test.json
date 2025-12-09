@@ -1,11 +1,13 @@
 {
   "keys": [
     {
-      "key": "XCAGXXS5GZ7D8RJA",
+      "key": "Test",
       "deviceid": [
-        "a36f97295c0b7400"
+        "a36f97295c0b7400",
+        "74c1252e85889182",
+        "f4143cc22c9de7e6"
       ],
-      "expiry": "2025-12-01T14:28:00Z"
+      "expiry": "2026-04-23T14:28:00Z"
     }
   ],
   "bans": [],
