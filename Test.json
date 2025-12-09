@@ -8,7 +8,13 @@
       "expiry": "2025-12-12T04:36:00Z"
     }
   ],
-  "bans": [],
+  "bans": [
+    {
+      "deviceid": "a36f97295c0b7400",
+      "reason": "Trying to mod the app",
+      "banneddate": "2025-12-09T05:03:34Z"
+    }
+  ],
   "apps": [],
   "login_dialog": {
     "topText": "FG Mods",
