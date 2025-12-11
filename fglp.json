@@ -24,6 +24,11 @@
       "package_name": "com.zepto.rider",
       "latest_version": 272,
       "update_link": "https://t.me/furjack"
+    },
+    {
+      "package_name": "fg.key.fgmods",
+      "latest_version": 6,
+      "update_link": "https://t.me/furjack"
     }
   ],
   "login_dialog": {
