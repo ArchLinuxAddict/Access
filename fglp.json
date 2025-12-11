@@ -19,7 +19,13 @@
     }
   ],
   "bans": [],
-  "apps": [],
+  "apps": [
+    {
+      "package_name": "com.zepto.rider",
+      "latest_version": 272,
+      "update_link": "https://t.me/furjack"
+    }
+  ],
   "login_dialog": {
     "topText": "FG Mods",
     "buttonText": "Login",
