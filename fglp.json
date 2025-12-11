@@ -11,20 +11,15 @@
       "expiry": "2026-02-23T14:28:00Z"
     },
     {
-      "key": "ZXYFJJX68LKFV657",
+      "key": "PTB3AVMEA7TCYDLS",
       "deviceid": [
-        "24b4c7001ab6ccc8"
+        "5aa223a692fae386"
       ],
-      "expiry": "2026-01-10T06:55:00Z"
+      "expiry": "2025-12-13T17:55:00Z"
     }
   ],
   "bans": [],
   "apps": [
-    {
-      "package_name": "com.zepto.rider",
-      "latest_version": 272,
-      "update_link": "https://t.me/furjack"
-    },
     {
       "package_name": "fg.key.fgmods",
       "latest_version": 5,
