@@ -30,6 +30,13 @@
         "24b4c7001ab6ccc8"
       ],
       "expiry": "2026-01-10T06:51:00Z"
+    },
+    {
+      "key": "KL5BLH9G6CYTHVZJ",
+      "deviceid": [
+        "KL5BLH9G6CYTHVZJ"
+      ],
+      "expiry": "2100-12-12T10:17:00Z"
     }
   ],
   "bans": [],
