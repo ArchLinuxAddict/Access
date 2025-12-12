@@ -37,6 +37,13 @@
         "e2a8af0e92fe096d"
       ],
       "expiry": "2100-12-12T10:17:00Z"
+    },
+    {
+      "key": "38QBFY6MFFW82HNN",
+      "deviceid": [
+        "8a6c57afbc0e660d"
+      ],
+      "expiry": "2026-01-10T12:18:00Z"
     }
   ],
   "bans": [],
