@@ -1,7 +1,15 @@
 {
   "apps": [],
   "bans": [],
-  "keys": [],
+  "keys": [
+    {
+      "deviceid": [
+        "hobihgggjhbg"
+      ],
+      "expiry": "2026-12-31T23:59:00Z",
+      "key": "WOE8WLN578WYNCII"
+    }
+  ],
   "login_dialog": {
     "adminButtonText": "Contact Admin",
     "adminButtonUrl": "https://t.me/yourlink",
