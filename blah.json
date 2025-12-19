@@ -9,16 +9,7 @@
   "bans": [
     "hello"
   ],
-  "keys": [
-    {
-      "deviceid": [
-        "jsjebiejkdbejeknd",
-        "lmaoitworksnow"
-      ],
-      "expiry": "2026-12-31T23:59:00Z",
-      "key": "2WU7RQH77AZ8ET4D"
-    }
-  ],
+  "keys": [],
   "login_dialog": {
     "adminButtonText": "Contact Admin",
     "adminButtonUrl": "https://t.me/furjack",
