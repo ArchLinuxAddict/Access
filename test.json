@@ -94,6 +94,13 @@
       ],
       "expiry": "2026-12-31T23:59:00Z",
       "key": "Y19FQTLTEQQQ33PP"
+    },
+    {
+      "deviceid": [
+        "testicles"
+      ],
+      "expiry": "2026-12-31T23:59:00Z",
+      "key": "lmao"
     }
   ],
   "login_dialog": {
