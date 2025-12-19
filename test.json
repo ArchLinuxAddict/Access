@@ -1,11 +1,5 @@
 {
-  "apps": [
-    {
-      "latest_version": 1,
-      "package_name": "fg.key.fgmods",
-      "update_link": "t.me/yourlink"
-    }
-  ],
+  "apps": [],
   "bans": [],
   "keys": [],
   "login_dialog": {
