@@ -1,0 +1,17 @@
+{
+  "apps": [
+    {
+      "latest_version": 1,
+      "package_name": "fg.key.fgmods",
+      "update_link": "t.me/yourlink"
+    }
+  ],
+  "bans": [],
+  "keys": [],
+  "login_dialog": {
+    "adminButtonText": "Contact Admin",
+    "adminButtonUrl": "https://t.me/yourlink",
+    "buttonText": "Login",
+    "topText": "FG Mods"
+  }
+}
