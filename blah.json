@@ -11,9 +11,7 @@
       "update_link": "t.me/furjack"
     }
   ],
-  "bans": [
-    "hello"
-  ],
+  "bans": [],
   "keys": [],
   "login_dialog": {
     "adminButtonText": "Contact Admin",
