@@ -9,7 +9,15 @@
   "bans": [
     "hello"
   ],
-  "keys": [],
+  "keys": [
+    {
+      "deviceid": [
+        "jsjebiejkdbejeknd"
+      ],
+      "expiry": "2026-12-31T23:59:00Z",
+      "key": "2WU7RQH77AZ8ET4D"
+    }
+  ],
   "login_dialog": {
     "adminButtonText": "Contact Admin",
     "adminButtonUrl": "https://t.me/yourlink",
