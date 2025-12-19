@@ -6,7 +6,9 @@
       "update_link": "t.me/yourlink"
     }
   ],
-  "bans": [],
+  "bans": [
+    "hello"
+  ],
   "keys": [],
   "login_dialog": {
     "adminButtonText": "Contact Admin",
