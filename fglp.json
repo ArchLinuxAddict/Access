@@ -1,98 +1,105 @@
 {
+  "apps": [
+    {
+      "latest_version": 5,
+      "package_name": "fg.key.fgmods",
+      "update_link": "t.me/furjack"
+    }
+  ],
+  "bans": [],
   "keys": [
     {
-      "key": "Test",
       "deviceid": [
         "a36f97295c0b7400",
         "74c1252e85889182",
         "f4143cc22c9de7e6",
         "5aa223a692fae386"
       ],
-      "expiry": "2026-02-23T14:28:00Z"
+      "expiry": "2026-02-23T14:28:00Z",
+      "key": "Test"
     },
     {
-      "key": "PTB3AVMEA7TCYDLS",
       "deviceid": [
         "5aa223a692fae386"
       ],
-      "expiry": "2025-12-13T17:55:00Z"
+      "expiry": "2025-12-13T17:55:00Z",
+      "key": "PTB3AVMEA7TCYDLS"
     },
     {
-      "key": "4P8QLPKBYS3PLZ8U",
       "deviceid": [
         "d6b6195c8118d662"
       ],
-      "expiry": "2026-01-16T03:56:00Z"
+      "expiry": "2026-01-16T03:56:00Z",
+      "key": "4P8QLPKBYS3PLZ8U"
     },
     {
-      "key": "ZXYFJJX68LKFV657",
       "deviceid": [
         "24b4c7001ab6ccc8"
       ],
-      "expiry": "2026-01-10T06:51:00Z"
+      "expiry": "2026-01-10T06:51:00Z",
+      "key": "ZXYFJJX68LKFV657"
     },
     {
-      "key": "KL5BLH9G6CYTHVZJ",
       "deviceid": [
         "e2a8af0e92fe096d"
       ],
-      "expiry": "2100-12-12T10:17:00Z"
+      "expiry": "2100-12-12T10:17:00Z",
+      "key": "KL5BLH9G6CYTHVZJ"
     },
     {
-      "key": "38QBFY6MFFW82HNN",
       "deviceid": [
         "8a6c57afbc0e660d"
       ],
-      "expiry": "2026-01-13T12:18:00Z"
+      "expiry": "2026-01-13T12:18:00Z",
+      "key": "38QBFY6MFFW82HNN"
     },
     {
-      "key": "AXQFP35JK5DH963R",
       "deviceid": [
         "f85a1263a64f3247"
       ],
-      "expiry": "2025-12-15T03:39:00Z"
+      "expiry": "2025-12-15T03:39:00Z",
+      "key": "AXQFP35JK5DH963R"
     },
     {
-      "key": "CC9NRRPYACZA7JBC",
       "deviceid": [
         "7ccc7a4d99595bfa"
       ],
-      "expiry": "2026-01-06T07:32:00Z"
+      "expiry": "2026-01-06T07:32:00Z",
+      "key": "CC9NRRPYACZA7JBC"
     },
     {
-      "key": "NE7W4TETFDJPZ4DY",
       "deviceid": [
         "4e5ef4dfd188ff51"
       ],
-      "expiry": "2026-01-15T15:23:00Z"
+      "expiry": "2026-01-15T15:23:00Z",
+      "key": "NE7W4TETFDJPZ4DY"
     },
     {
-      "key": "Z94TV9HF5NYC8Y8V",
       "deviceid": [
         "357417c3591c92eb"
       ],
-      "expiry": "2026-01-15T17:01:00Z"
+      "expiry": "2026-01-15T17:01:00Z",
+      "key": "Z94TV9HF5NYC8Y8V"
     },
     {
-      "key": "7DQEJQ7KE4HKT445",
       "deviceid": [
         "9767351506ee48e9"
       ],
-      "expiry": "2026-01-18T09:41:00Z"
-    }
-  ],
-  "bans": [],
-  "apps": [
+      "expiry": "2026-01-18T09:41:00Z",
+      "key": "7DQEJQ7KE4HKT445"
+    },
     {
-      "package_name": "fg.key.fgmods",
-      "latest_version": 5,
-      "update_link": "t.me/furjack"
+      "deviceid": [
+        "218595d6cceb50cc"
+      ],
+      "expiry": "2026-12-31T23:59:00Z",
+      "key": "I9IMBC2Y7SMQGYPE"
     }
   ],
   "login_dialog": {
-    "topText": "FG Mods",
-    "buttonText": "Login",
     "adminButtonText": "Contact Admin",
-    "adminButtonUrl": "https://t.me/furjack"
+    "adminButtonUrl": "https://t.me/furjack",
+    "buttonText": "Login",
+    "topText": "FG Mods"
   }
 }
