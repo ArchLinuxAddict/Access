@@ -1,11 +1,19 @@
 {
-  "keys": [],
-  "bans": [],
   "apps": [],
+  "bans": [],
+  "keys": [
+    {
+      "deviceid": [
+        "52ac7fc38014bfc3"
+      ],
+      "expiry": "2026-01-28T23:59:00Z",
+      "key": "g0agcQS8b1q89Nj2"
+    }
+  ],
   "login_dialog": {
-    "topText": "FG Mods",
-    "buttonText": "Login",
     "adminButtonText": "Contact Admin",
-    "adminButtonUrl": "https://t.me/furjack"
+    "adminButtonUrl": "https://t.me/furjack",
+    "buttonText": "Login",
+    "topText": "FG Mods"
   }
 }
