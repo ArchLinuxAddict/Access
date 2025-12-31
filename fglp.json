@@ -269,6 +269,13 @@
       ],
       "expiry": "2026-01-30T23:59:00Z",
       "key": "BbIX3SmAUZ88tv3T"
+    },
+    {
+      "deviceid": [
+        "41539e66114d349f"
+      ],
+      "expiry": "2026-12-31T23:59:00Z",
+      "key": "Dd1jOADhYzToeSRZ"
     }
   ],
   "login_dialog": {
