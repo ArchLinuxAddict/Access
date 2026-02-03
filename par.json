@@ -7,7 +7,15 @@
     }
   ],
   "bans": [],
-  "keys": [],
+  "keys": [
+    {
+      "deviceid": [
+        "QEaroruKA7Nz5EeQ"
+      ],
+      "expiry": "2026-03-05T23:59:00Z",
+      "key": "0NYb54BjBMM89t9V"
+    }
+  ],
   "login_dialog": {
     "adminButtonText": "Contact Admin",
     "adminButtonUrl": "https://t.me/yourlink",
