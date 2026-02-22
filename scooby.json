@@ -194,13 +194,6 @@
     },
     {
       "deviceid": [
-        "4089c6198cde1256"
-      ],
-      "expiry": "2026-02-21T23:59:00Z",
-      "key": "9ISCpOF1dcjpzsjx"
-    },
-    {
-      "deviceid": [
         "52ac7fc38014bfc3"
       ],
       "expiry": "2026-02-28T23:59:00Z",
@@ -294,8 +287,8 @@
       "deviceid": [
         "83a13da05fe33a64"
       ],
-      "expiry": "2026-03-11T23:59:00Z",
-      "key": "MzYW9G8GALkNNKK6"
+      "expiry": "2026-03-23T23:59:00Z",
+      "key": "EjoWNn5J86djyN7u"
     },
     {
       "deviceid": [
@@ -401,13 +394,6 @@
       ],
       "expiry": "2026-03-23T23:59:00Z",
       "key": "7ZWtDaLEnV4RLFZy"
-    },
-    {
-      "deviceid": [
-        "83a13da05fe33a64"
-      ],
-      "expiry": "2026-03-23T23:59:00Z",
-      "key": "EjoWNn5J86djyN7u"
     }
   ],
   "login_dialog": {
