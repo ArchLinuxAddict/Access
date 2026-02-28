@@ -6,7 +6,9 @@
       "update_link": "t.me/furjack"
     }
   ],
-  "bans": [],
+  "bans": [
+    "{\"deviceid\":\"58f45238c58c113e\",\"reason\":\"Not got the apk from me\",\"banneddate\":\"2026-02-28\"}"
+  ],
   "keys": [
     {
       "deviceid": [
