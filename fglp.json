@@ -57,13 +57,6 @@
     },
     {
       "deviceid": [
-        "5425544785fda584"
-      ],
-      "expiry": "2026-03-01T23:59:00Z",
-      "key": "S84Kp5jfBb6Q7YQk"
-    },
-    {
-      "deviceid": [
         "3b5bc455a523279d"
       ],
       "expiry": "2026-03-03T23:59:00Z",
@@ -173,20 +166,6 @@
       ],
       "expiry": "2026-03-31T23:59:00Z",
       "key": "jFieof1ziQEY9dBi"
-    },
-    {
-      "deviceid": [
-        "b261c462fd9631ec"
-      ],
-      "expiry": "2026-03-01T23:59:00Z",
-      "key": "PtWIheRT7TFRq4rh"
-    },
-    {
-      "deviceid": [
-        "06c1ae66474b5d56"
-      ],
-      "expiry": "2026-03-01T23:59:00Z",
-      "key": "lUQ30783IUd7vRC9"
     },
     {
       "deviceid": [
