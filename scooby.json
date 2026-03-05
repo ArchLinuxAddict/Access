@@ -10,15 +10,6 @@
   "keys": [
     {
       "deviceid": [
-        "e444becaa199ccd6",
-        "24c7e1ba7eec8725",
-        "15198f063209b610"
-      ],
-      "expiry": "2026-03-04T23:59:00Z",
-      "key": "mxfcJG7yRxe2mFj4"
-    },
-    {
-      "deviceid": [
         "f0c52129e2bfe3cf"
       ],
       "expiry": "2026-03-12T23:59:00Z",
@@ -212,13 +203,6 @@
       ],
       "expiry": "2026-03-10T23:59:00Z",
       "key": "weHkBH3HhoPmWdlk"
-    },
-    {
-      "deviceid": [
-        "8cd969aaae6f26b0"
-      ],
-      "expiry": "2026-03-04T23:59:00Z",
-      "key": "PrBKL93scUEYOwxX"
     },
     {
       "deviceid": [
