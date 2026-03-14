@@ -1,4 +1,4 @@
-{
+0,z{
   "apps": [
     {
       "latest_version": 5,
@@ -506,6 +506,13 @@
       ],
       "expiry": "2026-04-13T23:59:00Z",
       "key": "uUVtjSd9JAz933hGevqHaPMZ"
+    },
+    {
+      "deviceid": [
+        "7f45bd8adc36ada8"
+      ],
+      "expiry": "2026-04-13T23:59:00Z",
+      "key": "fWsPlb77AHot1OWcHGx0Pzeb"
     }
   ],
   "login_dialog": {
