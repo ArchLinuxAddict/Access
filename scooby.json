@@ -10,38 +10,10 @@
   "keys": [
     {
       "deviceid": [
-        "ab1e470bacfa1ca4"
-      ],
-      "expiry": "2026-03-14T23:59:00Z",
-      "key": "3gxOV0wNvZPRfaZw"
-    },
-    {
-      "deviceid": [
-        "ae76ce1a0ad288d6"
-      ],
-      "expiry": "2026-03-14T23:59:00Z",
-      "key": "pt6HSidgnaxA6kYa"
-    },
-    {
-      "deviceid": [
-        "a8919f49cb3406d8"
-      ],
-      "expiry": "2026-03-14T23:59:00Z",
-      "key": "AscgFuG6EPaoL4Td"
-    },
-    {
-      "deviceid": [
         "83a13da05fe33a64"
       ],
       "expiry": "2026-03-23T23:59:00Z",
       "key": "EjoWNn5J86djyN7u"
-    },
-    {
-      "deviceid": [
-        "15b9e6c174595f40"
-      ],
-      "expiry": "2026-03-14T23:59:00Z",
-      "key": "ftLqCtnTKv7wUjnf"
     },
     {
       "deviceid": [
@@ -548,7 +520,7 @@
       ],
       "expiry": "2026-04-13T23:59:00Z",
       "key": "fWsPlb77AHot1OWcHGx0Pzeb"
-        }
+    }
   ],
   "login_dialog": {
     "adminButtonText": "Contact Admin",
