@@ -498,13 +498,6 @@
     },
     {
       "deviceid": [
-        "5bfd4ee393276c6f"
-      ],
-      "expiry": "2026-05-13T19:28:06Z",
-      "key": "fgmodshwvbCVlciW"
-    },
-    {
-      "deviceid": [
         "23daeedd0c5b8f95"
       ],
       "expiry": "2026-04-14T04:24:53Z",
@@ -530,13 +523,6 @@
       ],
       "expiry": "2026-04-15T09:14:35Z",
       "key": "fgmodsH4ladXe4Wm"
-    },
-    {
-      "deviceid": [
-        "5bfd4ee393276c6f"
-      ],
-      "expiry": "2026-03-17T19:29:51Z",
-      "key": "fgmodsF8gWPBklj5"
     }
   ],
   "login_dialog": {
