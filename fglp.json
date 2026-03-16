@@ -6,13 +6,7 @@
       "update_link": "t.me/furjack"
     }
   ],
-  "bans": [
-    {
-      "deviceid": "5bfd4ee393276c6f",
-      "reason": "testing",
-      "banneddate": "2026-03-16 20:07:24 UTC"
-    }
-  ],
+  "bans": [],
   "keys": [
     {
       "deviceid": [
@@ -535,6 +529,11 @@
     "topText": "FG Mods"
   },
   "audit_logs": [
+    {
+      "time": "2026-03-16T21:05:03Z",
+      "action": "UNBAN",
+      "details": "Unbanned 5bfd4ee393276c6f"
+    },
     {
       "time": "2026-03-16T21:04:29Z",
       "action": "OTA_DEL",
