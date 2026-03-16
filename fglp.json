@@ -6,12 +6,7 @@
       "update_link": "t.me/furjack"
     }
   ],
-  "bans": [
-    {
-      "device_id": "5bfd4ee393276c6f",
-      "reason": "testing"
-    }
-  ],
+  "bans": [],
   "keys": [
     {
       "deviceid": [
