@@ -4,6 +4,11 @@
       "latest_version": 5,
       "package_name": "fg.key.fgmods",
       "update_link": "t.me/furjack"
+    },
+    {
+      "latest_version": 1,
+      "package_name": "",
+      "update_link": "https://t.me/furjack"
     }
   ],
   "bans": [
@@ -535,6 +540,11 @@
     "topText": "FG Mods"
   },
   "audit_logs": [
+    {
+      "time": "2026-03-16T21:03:55Z",
+      "action": "OTA_ADD",
+      "details": "Added "
+    },
     {
       "time": "2026-03-16T21:03:15Z",
       "action": "GENERATE_KEY",
