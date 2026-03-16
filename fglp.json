@@ -519,6 +519,13 @@
       ],
       "expiry": "2026-04-15T09:14:35Z",
       "key": "fgmodsH4ladXe4Wm"
+    },
+    {
+      "deviceid": [
+        "5bfd4ee393276c6f"
+      ],
+      "expiry": "2026-03-18T21:03:14Z",
+      "key": "fgmodsnYD4Y3NDRQ"
     }
   ],
   "login_dialog": {
@@ -526,5 +533,12 @@
     "adminButtonUrl": "https://t.me/furjack",
     "buttonText": "Login",
     "topText": "FG Mods"
-  }
+  },
+  "audit_logs": [
+    {
+      "time": "2026-03-16T21:03:15Z",
+      "action": "GENERATE_KEY",
+      "details": "Issued fgmodsnYD4Y3NDRQ for ['5bfd4ee393276c6f']"
+    }
+  ]
 }
