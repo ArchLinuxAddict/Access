@@ -527,6 +527,13 @@
       ],
       "expiry": "2026-04-16T03:18:20Z",
       "key": "fgmodsHXeW47jffA"
+    },
+    {
+      "deviceid": [
+        "967799b51edca82e"
+      ],
+      "expiry": "2026-04-16T03:20:04Z",
+      "key": "fgmodsMep7TkTGPk"
     }
   ],
   "login_dialog": {
@@ -536,6 +543,11 @@
     "topText": "FG Mods"
   },
   "audit_logs": [
+    {
+      "time": "2026-03-17T03:20:05Z",
+      "action": "GENERATE_KEY",
+      "details": "Issued fgmodsMep7TkTGPk for ['967799b51edca82e']"
+    },
     {
       "time": "2026-03-17T03:18:21Z",
       "action": "GENERATE_KEY",
