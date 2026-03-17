@@ -582,17 +582,5 @@
     "adminButtonUrl": "https://t.me/furjack",
     "buttonText": "Login",
     "topText": "FG Mods"
-  },
-  "audit_logs": [
-    {
-      "time": "2026-03-17T03:31:20Z",
-      "action": "BAN",
-      "details": "Banned 6bf69b46de52a569"
-    },
-    {
-      "time": "2026-03-17T03:03:52Z",
-      "action": "GENERATE_KEY",
-      "details": "Issued fgmodsdVkMZwq1zC for ['3c2e2e93d04efa8d']"
-    }
-  ]
+  }
 }
