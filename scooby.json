@@ -6,7 +6,13 @@
       "update_link": "t.me/furjack"
     }
   ],
-  "bans": [],
+  "bans": [
+    {
+      "deviceid": "6bf69b46de52a569",
+      "reason": "Using app without payment",
+      "banneddate": "2026-03-17 03:31:20 UTC"
+    }
+  ],
   "keys": [
     {
       "deviceid": [
@@ -578,6 +584,11 @@
     "topText": "FG Mods"
   },
   "audit_logs": [
+    {
+      "time": "2026-03-17T03:31:20Z",
+      "action": "BAN",
+      "details": "Banned 6bf69b46de52a569"
+    },
     {
       "time": "2026-03-17T03:03:52Z",
       "action": "GENERATE_KEY",
