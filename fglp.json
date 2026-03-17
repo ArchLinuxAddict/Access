@@ -541,42 +541,5 @@
     "adminButtonUrl": "https://t.me/furjack",
     "buttonText": "Login",
     "topText": "FG Mods"
-  },
-  "audit_logs": [
-    {
-      "time": "2026-03-17T03:26:47Z",
-      "action": "GENERATE_KEY",
-      "details": "Issued fgmodsa7v3PBvMeI for ['5bfd4ee393276c6f']"
-    },
-    {
-      "time": "2026-03-17T03:20:05Z",
-      "action": "GENERATE_KEY",
-      "details": "Issued fgmodsMep7TkTGPk for ['967799b51edca82e']"
-    },
-    {
-      "time": "2026-03-17T03:18:21Z",
-      "action": "GENERATE_KEY",
-      "details": "Issued fgmodsHXeW47jffA for ['56458a08ad0d5f2b']"
-    },
-    {
-      "time": "2026-03-16T21:05:03Z",
-      "action": "UNBAN",
-      "details": "Unbanned 5bfd4ee393276c6f"
-    },
-    {
-      "time": "2026-03-16T21:04:29Z",
-      "action": "OTA_DEL",
-      "details": "Deleted "
-    },
-    {
-      "time": "2026-03-16T21:03:55Z",
-      "action": "OTA_ADD",
-      "details": "Added "
-    },
-    {
-      "time": "2026-03-16T21:03:15Z",
-      "action": "GENERATE_KEY",
-      "details": "Issued fgmodsnYD4Y3NDRQ for ['5bfd4ee393276c6f']"
-    }
-  ]
+  }
 }
