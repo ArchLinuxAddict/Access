@@ -11,13 +11,7 @@
       "update_link": "https://t.me/furjack"
     }
   ],
-  "bans": [
-    {
-      "deviceid": "5bfd4ee393276c6f",
-      "reason": "testing if it works",
-      "banneddate": "2026-03-17 04:09:35 UTC"
-    }
-  ],
+  "bans": [],
   "keys": [
     {
       "deviceid": [
