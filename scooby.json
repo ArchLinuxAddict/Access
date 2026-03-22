@@ -6,13 +6,7 @@
       "update_link": "t.me/furjack"
     }
   ],
-  "bans": [
-    {
-      "deviceid": "6bf69b46de52a569",
-      "reason": "Using app without payment",
-      "banneddate": "2026-03-17 03:31:20 UTC"
-    }
-  ],
+  "bans": [],
   "keys": [
     {
       "deviceid": [
