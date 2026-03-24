@@ -10,24 +10,10 @@
   "keys": [
     {
       "deviceid": [
-        "83a13da05fe33a64"
-      ],
-      "expiry": "2026-03-23T23:59:00Z",
-      "key": "EjoWNn5J86djyN7u"
-    },
-    {
-      "deviceid": [
         "cef049bb71365bb1"
       ],
       "expiry": "2026-04-03T23:59:00Z",
       "key": "WjwrTyv1TizblK45"
-    },
-    {
-      "deviceid": [
-        "a7b0a85e315a9a44"
-      ],
-      "expiry": "2026-03-23T23:59:00Z",
-      "key": "7ZWtDaLEnV4RLFZy"
     },
     {
       "deviceid": [
