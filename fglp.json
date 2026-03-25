@@ -220,11 +220,7 @@
     },
     {
       "deviceid": [
-        "25ba996422fb22f3",
-        "3c266a14e7efa5d9",
-        "6b8ae07c8920be1a",
         "475b3ff12837e2a0",
-        "79bf75dd80017cae",
         "eAkB2b9oNEvbRUDf"
       ],
       "expiry": "2026-04-05T23:59:00Z",
@@ -236,13 +232,6 @@
       ],
       "expiry": "2026-04-05T23:59:00Z",
       "key": "xKDaPXCejD8cXcMg"
-    },
-    {
-      "deviceid": [
-        "635f9d231f628341"
-      ],
-      "expiry": "2026-04-05T23:59:00Z",
-      "key": "a8gZ4GDRhqGHt8X0"
     },
     {
       "deviceid": [
@@ -318,13 +307,8 @@
     },
     {
       "deviceid": [
-        "25ba996422fb22f3",
         "475b3ff12837e2a0",
-        "635f9d231f628341",
         "afb9cea3bb7b3153",
-        "3c266a14e7efa5d9",
-        "6b8ae07c8920be1a",
-        "79bf75dd80017cae",
         "fbdfcd9a7ea5452b"
       ],
       "expiry": "2026-04-08T23:59:00Z",
@@ -549,6 +533,17 @@
       ],
       "expiry": "2026-04-24T03:04:15Z",
       "key": "fgmodsSFPJ1qjnJkfEU4"
+    },
+    {
+      "deviceid": [
+        "635f9d231f628341",
+        "25ba996422fb22f3",
+        "79bf75dd80017cae",
+        "3c266a14e7efa5d9",
+        "6b8ae07c8920be1a"
+      ],
+      "expiry": "2026-04-24T06:02:08Z",
+      "key": "fgmods08kktIgvyTbuMW"
     }
   ],
   "login_dialog": {
