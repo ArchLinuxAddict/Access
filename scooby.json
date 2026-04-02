@@ -17,20 +17,6 @@
     },
     {
       "deviceid": [
-        "9c2fe55153cbe316"
-      ],
-      "expiry": "2026-04-01T23:59:00Z",
-      "key": "pIGhVKSzmGarM8dE"
-    },
-    {
-      "deviceid": [
-        "66cc20bfba1f4364"
-      ],
-      "expiry": "2026-04-01T23:59:00Z",
-      "key": "0q0GqcnlR3ZZyvct"
-    },
-    {
-      "deviceid": [
         "52ac7fc38014bfc3"
       ],
       "expiry": "2026-04-02T23:59:00Z",
@@ -390,13 +376,6 @@
     },
     {
       "deviceid": [
-        "3c2e2e93d04efa8d"
-      ],
-      "expiry": "2026-04-01T03:03:50Z",
-      "key": "fgmodsdVkMZwq1zC"
-    },
-    {
-      "deviceid": [
         "c93b9007dc96a8cf"
       ],
       "expiry": "2026-04-16T08:29:15Z",
@@ -487,13 +466,6 @@
       ],
       "expiry": "2026-04-10T03:58:07Z",
       "key": "fgmodspldsnYvnjwDOiF"
-    },
-    {
-      "deviceid": [
-        "af01464f5ce8d27d"
-      ],
-      "expiry": "2026-04-01T02:41:56Z",
-      "key": "fgmodsreWS2LNk9hVt0o"
     },
     {
       "deviceid": [
