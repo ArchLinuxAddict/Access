@@ -51,56 +51,6 @@
     },
     {
       "deviceid": [
-        "9dac446e93b3630a"
-      ],
-      "expiry": "2026-05-05T23:59:00Z",
-      "key": "bcDkqzQImoQojMna"
-    },
-    {
-      "deviceid": [
-        "20f4c6940bd9a9fa"
-      ],
-      "expiry": "2026-05-05T05:29:38Z",
-      "key": "fgmodsGZUpY1RRG6oCLA"
-    },
-    {
-      "deviceid": [
-        "b261c462fd9631ec",
-        "5425544785fda584"
-      ],
-      "expiry": "2026-05-05T06:09:38Z",
-      "key": "fgmods8JWOn3TGjBB4iD"
-    },
-    {
-      "deviceid": [
-        "e98132193d7daabc"
-      ],
-      "expiry": "2026-05-05T12:16:39Z",
-      "key": "fgmodsvHq0PEHIB6Wysp"
-    },
-    {
-      "deviceid": [
-        "3c362c8c2ea86033"
-      ],
-      "expiry": "2026-05-05T12:41:18Z",
-      "key": "fgmodsDoxMLT0nJNyUWJ"
-    },
-    {
-      "deviceid": [
-        "4750e48c794a2a71"
-      ],
-      "expiry": "2026-05-05T13:27:29Z",
-      "key": "fgmodsLkO61lBTMhz1O3"
-    },
-    {
-      "deviceid": [
-        "af52f5f85e6154ac"
-      ],
-      "expiry": "2026-05-05T14:45:01Z",
-      "key": "fgmodstZ83MLQc3wK2Ea"
-    },
-    {
-      "deviceid": [
         "47ee8f9814e588ca"
       ],
       "expiry": "2026-05-06T03:37:04Z",
