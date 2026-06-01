@@ -44,13 +44,6 @@
     },
     {
       "deviceid": [
-        "e0ee57971a88189a"
-      ],
-      "expiry": "2026-05-31T23:59:00Z",
-      "key": "wL1b2uGUBfyAIhhO"
-    },
-    {
-      "deviceid": [
         "80a9c0ee956b93eb"
       ],
       "expiry": "2226-05-19T01:44:21Z",
@@ -62,14 +55,6 @@
       ],
       "expiry": "2050-05-19T01:44:21Z",
       "key": "fgmodsM7DDwgSbh"
-    },
-    {
-      "deviceid": [
-        "ccd45530b3994c19",
-        "10c873fb98dcc644"
-      ],
-      "expiry": "2026-06-01T01:44:21Z",
-      "key": "CYIfy0DqHkTCA2xIfvtPbtu6"
     },
     {
       "deviceid": [
